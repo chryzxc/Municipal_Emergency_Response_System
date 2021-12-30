@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970954754591",
+    "project_id": "emergency-b3444",
+    "storage_bucket": "emergency-b3444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970954754591:android:7d92352f9cff8444c9e32a",
+        "android_client_info": {
+          "package_name": "system.municipalemergencyresponse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970954754591-qp52obenpsgah1i82tpmv61nhdgtbkbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBfdgzeRT4Ak6NdUAmPJHhCVzmsM6YFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970954754591-qp52obenpsgah1i82tpmv61nhdgtbkbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
